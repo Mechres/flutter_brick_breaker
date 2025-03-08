@@ -1,5 +1,6 @@
 # Flutter Brick Breaker
 
+Flutter, Flame Brick breaker game.
 
 
 ![alt text](image.png)
